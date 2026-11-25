@@ -1,28 +1,20 @@
-NEXORA WEBSITE STARTER
+NEXORA 2.0 PACKAGE
+Files: index.html, styles.css, script.js, about.html, privacy.html.
 
-Files:
-- index.html: website content and structure
-- styles.css: responsive design and styling
-- script.js: mobile navigation and current footer year
+UPDATE YOUR GITHUB SITE:
+1. Open your nexora-site repository.
+2. Choose Add file > Upload files.
+3. Upload all five files to the repository root.
+4. Confirm replacement of same-named files if prompted.
+5. Commit changes to main. GitHub Pages should redeploy automatically; check Actions.
 
-HOW TO PUBLISH WITH GITHUB PAGES
-1. Create a GitHub repository named nexora-site.
-2. Open the repository and choose Add file > Upload files.
-3. Upload index.html, styles.css and script.js (you may also upload this README).
-4. Commit the files to the main branch.
-5. Open Settings > Pages.
-6. Under Build and deployment, choose Deploy from a branch.
-7. Choose Branch: main and folder: /(root), then Save.
-8. Wait for the Pages deployment. Your site address will be shown in Settings > Pages.
+WORKING FEATURES:
+- Mobile navigation
+- Search through the resources included on the page
+- Opportunity category filters
+- Save/unsave resources using this browser's local storage
+- Responsive layout
+- About and starter privacy pages
 
-BEFORE PUBLIC LAUNCH
-- Replace hello@nexora.example with a real contact email or remove the contact link.
-- Add your own About, Contact, Privacy Policy and Terms pages.
-- Check every external link and keep content current.
-- Only add affiliate links after you have joined the relevant programs. Clearly disclose affiliate relationships.
-- Do not present sample content as verified job vacancies or guaranteed income.
-- Add a privacy notice and obtain appropriate consent before using analytics, advertising cookies or mailing-list tools.
-
-This is a static starter website. It does not yet include a live job database, user accounts,
-payments, newsletter collection or automated news feed. Those features need separate services
-and configuration.
+LIMITATIONS / BEFORE PROMOTION:
+This is a static website. It has no server, live job feed, user accounts, payment processing, newsletter database, admin dashboard or automated news feed. Saved resources are local to one browser/device. Search only searches the content on this page. Replace hello@nexora.example with a real monitored business email. Customise the privacy notice to match actual practices and applicable laws. Verify external links and country eligibility. These links are not live vacancies or guaranteed income. Affiliate links are not enabled; join programs and disclose relationships before adding them.
